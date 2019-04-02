@@ -1,4 +1,3 @@
-![Work](https://img.shields.io/badge/IN-Progress-green.svg)
 # Fatigue-Detection-System-Based-On-Behavioural-Characteristics-Of-Driver
 ## Applications
 ### This can be used by riders who tends to drive the vehicle for a longer period of time that may lead to accidents
