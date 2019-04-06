@@ -36,7 +36,7 @@
 <img src="https://github.com/jaisayush/Fatigue-Detection-System-Based-On-Behavioural-Characteristics-Of-Driver/blob/master/eye_aspect_ratio.PNG">
 
 ## Execution
-To run the code, run
+To run the code, run 
 
 ```
 python blinkDetect.py
